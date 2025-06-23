@@ -1,1 +1,6 @@
-
+{
+  "skipInvalidProxy": false,
+  "delayEachAccount": [1, 1],
+  "timeToRestartAllAccounts": 0,
+  "howManyAccountsRunInOneTime": 9999999,
+}
